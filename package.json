@@ -1,6 +1,6 @@
 {
     "name": "promisy-variables",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Module lets to wait for expected variable value with promise",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
