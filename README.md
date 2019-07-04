@@ -102,7 +102,7 @@ const waitForVariable = async () => {
 	console.log("pvar value is", pvar.get());
 };
 
-waitForVarialbe();
+waitForVariable();
 
 setTimeout(() => {
 	pvar.set("bar");
