@@ -10,7 +10,7 @@ alt="follow on Twitter"></a>
 <a href="https://www.npmjs.com/package/promisy-variables">
 <img src="https://img.shields.io/npm/dt/promisy-variables.svg?style=flat" />
 </a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/npm/dependency-version/promisy-variables/dev/typescript.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/npm/dependency-version/promisy-variables/dev/typescript.svg" /></a>
 
 Module lets to wait for expected variable value with promise
 
